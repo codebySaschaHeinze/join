@@ -4,7 +4,7 @@ $red: #ff3d3d;
   .addtask-section {
     margin-left: 0;
     margin-top: 80px;
-    height: calc(100dvh - 160px);
+    height: calc(100dvh - 60px);
   }
 
   .addtask-content {
@@ -13,7 +13,7 @@ $red: #ff3d3d;
     justify-content: center;
     gap: 18px;
     max-width: 100%;
-    margin-top: 10px;
+    margin: 10px 0 96px 0;
   }
 
   .addtask-bottom {
