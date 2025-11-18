@@ -10,7 +10,7 @@ $input-border: #d1d5db;
 $overlay-bg: rgba(0, 0, 0, 0.4);
 
 .board-wrapper {
-  height: calc(100svh - 96px);
+  height: calc(100dvh - 96px);
   max-width: 1920px;
   background-color: $bg-color;
   padding: 0;
@@ -23,8 +23,7 @@ $overlay-bg: rgba(0, 0, 0, 0.4);
   @media (max-width: 1024px) {
     margin-left: 0;
     margin-top: 80px;
-    height: calc(100vh - 160px);
-
+    min-height: calc(100dvh - 160px);
     overflow-x: hidden;
   }
 
