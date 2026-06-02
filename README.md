@@ -31,6 +31,10 @@ Join is a task management web application with a Kanban-style board for organizi
 - Contact management with add, edit, delete, detail view, and alphabetical grouping
 - Responsive layouts for desktop and mobile views
 
+## Project Context
+
+Join was developed as part of my Developer Akademie training. The project is based on a course task and was implemented to practice building a structured Angular application with authentication, task management, contact management, and responsive UI behavior.
+
 ## Local Setup
 
 Install the project dependencies:
@@ -65,4 +69,4 @@ npm test
 
 ## Project Status
 
-Join is a portfolio project developed as part of Developer Akademie training. The repository is public and presents a completed task management application for portfolio and code review purposes.
+Join is a completed portfolio project and remains available for demonstration and code review purposes.
